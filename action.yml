@@ -1,4 +1,4 @@
-name: "Update PR body"
+name: "PR body action"
 description: "Update PR body because PR comments are annoying :)"
 inputs:
   body:
